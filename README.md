@@ -1,6 +1,7 @@
 # Excel_Project
 
-<img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/08c10227-1f89-4989-a7f7-1fa0b02e297b" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/19cc4c1f-bf22-43fb-a354-f1dee8801bdb" />
+
 
 
 
